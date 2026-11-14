@@ -1,3 +1,5 @@
+> **Moved to uno-lab.** This project now lives in the `Thermostat-Build/` folder of [noknowscode/uno-lab](https://github.com/noknowscode/uno-lab/tree/main/Thermostat-Build) (private). This repository is archived and kept for its history.
+
 # Smart Home Thermostat
 
 A smart-home thermostat dashboard: a circular temperature dial you drag, monitoring cards, an animated energy usage chart and bottom navigation.
